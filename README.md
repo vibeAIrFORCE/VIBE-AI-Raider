@@ -1,6 +1,6 @@
 # VIBE AI Raider Bot 🦒✨
 
-![VIBE AI Rforce](https://raw.githubusercontent.com/vibeAIrFORCE/Assets/main/VibeLOGOmain.png)
+![VIBE AI Rforce](https://github.com/vibeAIrFORCE/Assets/blob/main/VIBEaiRaiderBot.png)
 
 > A powerful Twitter engagement bot built with VIBE AI's signature style - where quirky meets powerful tech!
 
